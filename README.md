@@ -43,8 +43,8 @@ A modern, responsive web application for checking IP addresses, finding location
 
 ### Option 2: Clone Repository
 ```bash
-git clone https://github.com/yourusername/ip-checker.git
-cd ip-checker
+git clone https://github.com/Ianhsieh122/ipchecker.git
+cd ipchecker
 ```
 
 Then open `index.html` in your browser.
