@@ -190,7 +190,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🔗 Links
 
-- **Live Demo**: [Your deployed URL here]
+- **Live Demo**: [ip.iansite.dpdns.org]
 - **Report Issues**: [GitHub Issues](https://github.com/yourusername/ip-checker/issues)
 - **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/ip-checker/discussions)
 
@@ -203,6 +203,6 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Ian**
 
 *Star ⭐ this repository if you found it helpful!*
