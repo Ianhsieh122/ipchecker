@@ -191,15 +191,11 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🔗 Links
 
 - **Live Demo**: [ip.iansite.dpdns.org]
-- **Report Issues**: [GitHub Issues](https://github.com/yourusername/ip-checker/issues)
-- **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/ip-checker/discussions)
 
 ## 📞 Support
 
 If you encounter any issues or have questions:
-- Check the troubleshooting section above
-- Open an issue on GitHub
-- Contact: [your-email@example.com]
+- Check the troubleshooting section
 
 ---
 
