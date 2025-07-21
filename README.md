@@ -1,4 +1,4 @@
-PLZ Download the newest release ---------------------------------------------------------------------------------------->
+PLZ Download the newest release ------------------------------------------------------------------------------------>
 
 # 🌐 IP Address Checker & Location Finder
 
