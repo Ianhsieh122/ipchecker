@@ -1,3 +1,5 @@
+PLZ Download the newest release -------->
+
 # 🌐 IP Address Checker & Location Finder
 
 A modern, responsive web application for checking IP addresses, finding locations, and performing domain-to-IP lookups. Built with pure HTML, CSS, and JavaScript - no frameworks required!
